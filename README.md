@@ -1,3 +1,5 @@
+<title>Choi jujin</title>
+
 ♠career
 ヾ(￣▽￣) -GITHUB-beginner
 <html-beginner>
