@@ -1,6 +1,5 @@
-<title>Choi jujin</title>
-
-♠career
+# Choi jujin
+>♠현 상황
 ヾ(￣▽￣) -GITHUB-beginner
 <html-beginner>
 #PY -beginner
@@ -8,4 +7,4 @@
 printf("beginner \n (●'◡'●)")
 Java -beginner
 <h1>Html-beginner</h1>
-💚 korea Polytech university student
+## 💚 korea Polytech university student
