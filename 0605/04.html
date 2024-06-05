@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+// 프롬포트를 이용해서 출생년도를 입력받아 나이를 구한다
+        let testday = new Date();
+        let myBirthDay =parseInt(prompt("생년월일을 입력해주세요"));
+        let nowYear = testday.getFullYear();
+        let age = nowYear - myBirthDay;
+        let result = "";
+        alert("당신의 나이는 "+ age + "살 입니다.")
+        if(age <= 19){
+            result ="청소년";
+        }
+        else{
+            result ="성인";
+        }
+        alert("당신의 나이는 "+age+"세 이므로"+result+"입니다.")
+    </script>
+
+    
+
+</head>
+<body>
+    
+</body>
+</html>
