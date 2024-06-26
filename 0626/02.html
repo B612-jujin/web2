@@ -6,7 +6,11 @@
     <title>Document</title>
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>
     <script>
-        
+        $(document).ready(function(){
+            $("img").attr("alt", "JQuery 속성 설정 연습");
+            $("img".attr("src","imgs/img01.jpg"));//상대경로 (현재문서 기준)
+            $("img").attr("width", "150");
+        });
     </script>
 
 </head>
